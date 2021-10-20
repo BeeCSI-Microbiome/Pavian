@@ -11,7 +11,7 @@
 * On the “Data Selection” page:
    * Upload all the report.txt files
       * NB: the Pavian site times out after relatively short amount of time if left inactive, and when it does you have to re-upload the desired files
-   * At the moment there have been some problems encountered when trying to run Pavian on R, but in theory it should be possible
+     * At the moment there have been some problems encountered when trying to run Pavian on R, but in theory it should be possible
 * To access the resources needed to generated the NMDS and bar graphs, go to the “Comparison” page:
    * Change the rank preference from “Any Rank” to “Species”
    * Change “Reads” to “%” 
