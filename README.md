@@ -7,7 +7,7 @@
    * Navigate to the file with a name similar to cas_kraken2
 * Download the report.txt files
 
-## Navigate to the [Pavian site](https://fbreitwieser.shinyapps.io/pavian/)
+## At the [Pavian site](https://fbreitwieser.shinyapps.io/pavian/)
 * On the “Data Selection” page:
    * Upload all the report.txt files
       * NB: the Pavian site times out after relatively short amount of time if left inactive, and when it does you have to re-upload the desired files
