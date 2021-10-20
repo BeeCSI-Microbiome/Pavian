@@ -17,7 +17,8 @@
    * Change “Reads” to “%” 
       * Make sure you unselect “Reads”, rather than just add percentages to the number of reads
    * Change the rank preference from “Any Rank” to “Species”
-![desired rank and read settings](Pavian How To Rank Percent.jpg) 
+      * ![desired rank and read settings](Pavian How To Rank Percent.jpg) 
+      * ![alt text](https://github.com/[jlobri]/[Pavian]/blob/[Pavian How To Rank Percent.jpg]/image.jpg?raw=true)
    * Remove Apis mellifera and Varroa reads from the data by selecting their respective rows and then clicking the golf tee symbol on the top right
     * ![how to filter unwanted species](Pavian How To Filter.jpg)
     * Download a .tsv version of this data using the button at the bottom of the page
