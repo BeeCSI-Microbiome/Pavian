@@ -10,13 +10,12 @@
 ## Navigate to the [Pavian site](https://fbreitwieser.shinyapps.io/pavian/)
 * On the “Data Selection” page:
    * Upload all the report.txt files
-    * NB: the Pavian site times out after relatively short amount of time if left inactive, and when it does you have to re-upload the desired files
+      * NB: the Pavian site times out after relatively short amount of time if left inactive, and when it does you have to re-upload the desired files
    * At the moment there have been some problems encountered when trying to run Pavian on R, but in theory it should be possible
 * To access the resources needed to generated the NMDS and bar graphs, go to the “Comparison” page:
    * Change the rank preference from “Any Rank” to “Species”
-   * Change “Reads” to “%”
+   * Change “Reads” to “%” (Make sure you unselect “Reads”, rather than just add percentages to the number of reads)
    * Change the rank preference from “Any Rank” to “Species”
-    * Make sure you unselect “Reads”, rather than just add percentages to the number of reads 
     * ![desired rank and read settings](Pavian How To Rank Percent.jpg) 
    * Remove Apis mellifera and Varroa reads from the data by selecting their respective rows and then clicking the golf tee symbol on the top right
     * ![how to filter unwanted species](Pavian How To Filter.jpg)
