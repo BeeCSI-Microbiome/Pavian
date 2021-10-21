@@ -21,6 +21,6 @@
  ![how to filter unwanted species](https://github.com/BeeCSI-Microbiome/Pavian/blob/main/Filter.jpg)
     * Download a .tsv version of this data using the button at the bottom of the page
  * If you wish to see a Sankey visualization of all species present in each sample, go to the “Sample” page
-    * NB: viruses have been filtered out by the snakemake workflow
+    * NB: viruses, in particular the phiX bacteriophage, have been filtered out by the snakemake workflow. The BeeRoLaMa database does not contain virus sequences.
 
 
